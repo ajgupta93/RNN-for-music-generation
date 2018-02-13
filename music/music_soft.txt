@@ -1,0 +1,63 @@
+$
+X:38
+T:John a eftsede, Theman-thar
+H:Sestien
+Z:id:hn-refl of vio1 2ana Hinee/at intge torthig th rane Borgit Neven of Turit
+Z:in:hn-reel-90
+M:M$
+T:Crol
+Z:id:hn-rat7
+G,DE, B,DC:|2 L'Can ine, #35
+Z:id:hn-jig#978
+D:Mishleathle wayn Gilain: Cacke
+H:The dintipolkaveruic MoCreel, The
+R:ersiagrin the2 ter if Wines Tasateans Michtre's.
+Z:in:hn-reel-65
+N:Cloite Lillog8
+D:Suthe FEll G2001-88
+M:C|
+K:A
+d2Bd =BcA|~E3E FEdc|ABcA BAFF|B2FE FGle|
+bgaa agef|ggaf d2ef|gfag babe|d2de feaf|e2fe cedB|AFEF DEEF|EFEF FFGF | ga~g2 geae|feaf ~e2f|
+dfeg efge|dABA BABA|FA~G2 B2AG|AFDE DE~E2 G2FE:|2 BABD FDDB:|1 ABBGAG AD$
+X:3
+T:Teevernan's Whish so G, Thed.
+Z:id:hn- aten if #8.).
+Z:id:hn-reel-2d
+Z:id:hn-rnes (1918)
+H:Bersc Heil Moraie Muctte Keente ol cergin Kege tis Hold
+R:rover
+R:Matrey Lfgit, The
+R:polka-85
+M:C|
+K:Bdor
+igfed .A2g|
+~g2dB GGFD:|2 BEFG FDEF|D2BA B2BE|
+(GBdg Ae~f2ge |
+BF~B2 BEEFB|GABcd d2BA:|2 cdce d2dB ||
+
+$
+X:33
+T:Co kdcK:=AiG, ric Rine Rbre the.
+Z:id:hn-reel/8
+D:Chir
+C:The arse sorinn
+D:On :er/a/ge"Damain the ol Q[1-0090u-sire a2,frim Ware.Ridge, aledrrursion
+Z:id:hn-reel-25
+M:Canas shin
+D:The Hillions ob Plear Pand the Matoin Choocraen"'s dor Saigh 
+Z:id:hn-regl-890980)-tacke
+Z:id:hn-reel-27
+M:C|
+K:G
+d>e dBGB |: GAved gABc|efdA FAFE|FBGA D3BA||
+|:G2 GB/A/BE (3cBE|AD~G2:
+EG~G2 BG~E2|
+
+$
+X:43
+T:Tince
+H:Theertion
+Z:id:hn-reel-89
+H:Caly inl Rerh sume teele vand2 MItuir.
+H:rersc 10163:Mrrid Glils:hirnis HumeyC Thevhs wc,D, DM

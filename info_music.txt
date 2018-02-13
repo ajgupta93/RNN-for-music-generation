@@ -1,0 +1,15 @@
+Nottingham Dataset:
+http://abc.sourceforge.net/NMD/
+
+Some Good blogs:
+http://web.mit.edu/felixsun/www/neural-music.html
+
+http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/
+
+https://highnoongmt.wordpress.com/2015/08/11/deep-learning-for-assisting-the-process-of-music-composition-part-1/
+
+Thesis Report:
+http://cslab1.bc.edu/~csacademics/pdf/16Mikami.pdf
+
+http://philipperemy.github.io/keras-stateful-lstm/
+
